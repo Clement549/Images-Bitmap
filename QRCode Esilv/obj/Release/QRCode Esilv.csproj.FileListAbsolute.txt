@@ -1,0 +1,23 @@
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\bin\Release\QRCode Esilv.exe.config
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\bin\Release\QRCode Esilv.exe
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\bin\Release\QRCode Esilv.pdb
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\bin\Release\MaterialDesignColors.dll
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\bin\Release\MaterialDesignColors.pdb
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Release\QRCode Esilv.csprojAssemblyReference.cache
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Release\MainWindow.g.cs
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Release\App.g.cs
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Release\QRCode Esilv_Content.g.cs
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Release\QRCode Esilv_MarkupCompile.cache
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Release\QRCode Esilv_MarkupCompile.lref
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Release\App.baml
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Release\MainWindow.baml
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Release\QRCode Esilv.g.resources
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Release\QRCode_Esilv.Properties.Resources.resources
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Release\QRCode Esilv.csproj.GenerateResource.cache
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Release\QRCode Esilv.csproj.CoreCompileInputs.cache
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Release\QRCode Esilv.csproj.CopyComplete
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Release\QRCode Esilv.exe
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Release\QRCode Esilv.pdb

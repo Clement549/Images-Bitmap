@@ -1,0 +1,20 @@
+C:\Users\jumbo\source\repos\QRCode Esilv\Test Unitaire\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jumbo\source\repos\QRCode Esilv\Test Unitaire\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jumbo\source\repos\QRCode Esilv\Test Unitaire\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jumbo\source\repos\QRCode Esilv\Test Unitaire\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\jumbo\source\repos\QRCode Esilv\Test Unitaire\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\jumbo\source\repos\QRCode Esilv\Test Unitaire\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\jumbo\source\repos\QRCode Esilv\Test Unitaire\bin\Debug\Test Unitaire.dll
+C:\Users\jumbo\source\repos\QRCode Esilv\Test Unitaire\bin\Debug\Test Unitaire.pdb
+C:\Users\jumbo\source\repos\QRCode Esilv\Test Unitaire\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jumbo\source\repos\QRCode Esilv\Test Unitaire\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jumbo\source\repos\QRCode Esilv\Test Unitaire\bin\Debug\QRCode Esilv.exe
+C:\Users\jumbo\source\repos\QRCode Esilv\Test Unitaire\bin\Debug\QRCode Esilv.pdb
+C:\Users\jumbo\source\repos\QRCode Esilv\Test Unitaire\bin\Debug\QRCode Esilv.exe.config
+C:\Users\jumbo\source\repos\QRCode Esilv\Test Unitaire\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jumbo\source\repos\QRCode Esilv\Test Unitaire\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jumbo\source\repos\QRCode Esilv\Test Unitaire\obj\Debug\Test Unitaire.csprojAssemblyReference.cache
+C:\Users\jumbo\source\repos\QRCode Esilv\Test Unitaire\obj\Debug\Test Unitaire.csproj.CopyComplete
+C:\Users\jumbo\source\repos\QRCode Esilv\Test Unitaire\obj\Debug\Test Unitaire.dll
+C:\Users\jumbo\source\repos\QRCode Esilv\Test Unitaire\obj\Debug\Test Unitaire.pdb
+C:\Users\jumbo\source\repos\QRCode Esilv\Test Unitaire\bin\Debug\QRCode Esilv.xml

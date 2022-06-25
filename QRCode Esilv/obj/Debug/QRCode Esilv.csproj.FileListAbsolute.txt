@@ -1,0 +1,70 @@
+C:\Users\jumbo\source\repos\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv.csprojAssemblyReference.cache
+C:\Users\jumbo\source\repos\QRCode Esilv\QRCode Esilv\obj\Debug\MainWindow.g.cs
+C:\Users\jumbo\source\repos\QRCode Esilv\QRCode Esilv\obj\Debug\App.g.cs
+C:\Users\jumbo\source\repos\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv_MarkupCompile.cache
+C:\Users\jumbo\source\repos\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv_MarkupCompile.lref
+C:\Users\jumbo\source\repos\QRCode Esilv\QRCode Esilv\obj\Debug\App.baml
+C:\Users\jumbo\source\repos\QRCode Esilv\QRCode Esilv\obj\Debug\MainWindow.baml
+C:\Users\jumbo\source\repos\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv.g.resources
+C:\Users\jumbo\source\repos\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode_Esilv.Properties.Resources.resources
+C:\Users\jumbo\source\repos\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv.csproj.GenerateResource.cache
+C:\Users\jumbo\source\repos\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv.exe
+C:\Users\jumbo\source\repos\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv.pdb
+C:\Users\jumbo\source\repos\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv.csproj.CopyComplete
+C:\Users\jumbo\source\repos\QRCode Esilv\QRCode Esilv\QRCode Esilv.exe.config
+C:\Users\jumbo\source\repos\QRCode Esilv\QRCode Esilv\QRCode Esilv.exe
+C:\Users\jumbo\source\repos\QRCode Esilv\QRCode Esilv\QRCode Esilv.pdb
+C:\Users\jumbo\source\repos\QRCode Esilv\QRCode Esilv\MaterialDesignColors.dll
+C:\Users\jumbo\source\repos\QRCode Esilv\QRCode Esilv\MaterialDesignThemes.Wpf.dll
+C:\Users\jumbo\source\repos\QRCode Esilv\QRCode Esilv\MaterialDesignColors.pdb
+C:\Users\jumbo\source\repos\QRCode Esilv\QRCode Esilv\MaterialDesignThemes.Wpf.pdb
+C:\Users\jumbo\source\repos\QRCode Esilv\QRCode Esilv\MaterialDesignThemes.Wpf.xml
+C:\Users\jumbo\source\repos\QRCode Esilv\QRCode Esilv\QRCode Esilv.xml
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv.csprojAssemblyReference.cache
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Debug\App.g.cs
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv_MarkupCompile.cache
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv_MarkupCompile.lref
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv.exe
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv.pdb
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Debug\MainWindow.g.cs
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Debug\App.baml
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Debug\MainWindow.baml
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv.g.resources
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode_Esilv.Properties.Resources.resources
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv.csproj.GenerateResource.cache
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv.csproj.CopyComplete
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\QRCode Esilv.exe.config
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\QRCode Esilv.exe
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\QRCode Esilv.pdb
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\MaterialDesignColors.dll
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\MaterialDesignThemes.Wpf.dll
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\MaterialDesignColors.pdb
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\MaterialDesignThemes.Wpf.pdb
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\MaterialDesignThemes.Wpf.xml
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv_Content.g.cs
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv.csproj.CoreCompileInputs.cache
+C:\Users\jumbo\Desktop\QRCode Esilv\QRCode Esilv\README.xml
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv.csproj.AssemblyReference.cache
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\obj\Debug\MainWindow.g.cs
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\obj\Debug\App.g.cs
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv_Content.g.cs
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv_MarkupCompile.cache
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv_MarkupCompile.lref
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\obj\Debug\App.baml
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\obj\Debug\MainWindow.baml
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv.g.resources
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode_Esilv.Properties.Resources.resources
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv.csproj.GenerateResource.cache
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv.csproj.CoreCompileInputs.cache
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv.csproj.CopyComplete
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\QRCode Esilv.exe.config
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv.exe
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\README.xml
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\obj\Debug\QRCode Esilv.pdb
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\QRCode Esilv.exe
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\QRCode Esilv.pdb
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\MaterialDesignColors.dll
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\MaterialDesignThemes.Wpf.dll
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\MaterialDesignColors.pdb
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\MaterialDesignThemes.Wpf.pdb
+C:\Users\cleme\OneDrive\Documents\22_09_21\QRCode Esilv\QRCode Esilv\MaterialDesignThemes.Wpf.xml
